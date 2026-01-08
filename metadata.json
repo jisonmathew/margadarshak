@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Margdarshak - Career Navigation Portal",
+  "description": "The official career navigation super-app for Sri Chaitanya Global Vista students, offering guidance, skill-building, and professional roadmaps.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
